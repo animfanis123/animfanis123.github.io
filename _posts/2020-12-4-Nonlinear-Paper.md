@@ -3,5 +3,5 @@ layout: post
 title: Bilinear Knapsack Problem
 ---
 
-APX alg. 
+We use APX alg. Good Performance. 
 
