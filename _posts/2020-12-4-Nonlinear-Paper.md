@@ -5,4 +5,5 @@ title: Bilinear Knapsack Problem
 
 We use APX alg. Good Performance. 
 
--Iterative
+- Iterative
+- Math Programming
